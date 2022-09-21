@@ -1,0 +1,7 @@
+- [2114800120001 高级机器学习](/courses/suba/1MWTyoL)
+- [2114800120002 人工智能的数学基础](/courses/suba/2MWTyoL)
+- [2114800120004 人工智能实践](/courses/suba/4MWTyoL)
+- [2114800120007 海量数据挖掘](/courses/suba/7MWTyoL)
+- [2114800120008 神经网络与深度学习](/courses/suba/8MWTyoL)
+- [2114800120038 概率与随机算法](/courses/suba/CNWTyoL)
+- [2114800120048 人工智能：感知和认知基础](/courses/suba/MNWTyoL)
